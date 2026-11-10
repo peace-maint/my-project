@@ -1,0 +1,21 @@
+# 作业/资料压缩包，不入库
+*.zip
+
+# 构建产物
+**/build/
+**/bin/
+**/obj/
+**/out/
+
+# EIDE / 编辑器本地文件
+**/.eide/log/
+**/.eide.usr.ctx.json
+**/.settings/
+**/.vscode/launch.json
+*.ept
+*.eide-template
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
